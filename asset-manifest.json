@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/groceryapp/static/css/main.44f8b8b5.css",
+    "main.js": "/groceryapp/static/js/main.83a16b0b.js",
+    "static/js/787.b701888c.chunk.js": "/groceryapp/static/js/787.b701888c.chunk.js",
+    "index.html": "/groceryapp/index.html",
+    "main.44f8b8b5.css.map": "/groceryapp/static/css/main.44f8b8b5.css.map",
+    "main.83a16b0b.js.map": "/groceryapp/static/js/main.83a16b0b.js.map",
+    "787.b701888c.chunk.js.map": "/groceryapp/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.83a16b0b.js"
+  ]
+}
